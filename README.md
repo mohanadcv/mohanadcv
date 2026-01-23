@@ -1,16 +1,54 @@
-## Hi there 👋
+# **Hi, I’m Mohanad Ahmed (Mo. A)**
 
-<!--
-**mohanadcv/mohanadcv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*🎓 Final-Year Mechanical Engineering Student*<br>
+*🤖 Mechatronics, ML & Computer Vision Enthusiast*
 
-Here are some ideas to get you started:
+# **About Me**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*I am a final-year mechanical engineering student with a strong focus on mechatronics systems, machine learning, and computer vision. I am particularly interested in designing intelligent, data-driven engineering solutions that combine mechanical understanding with modern AI techniques.*
+
+# **Core Interests**
+
+*🤖 Mechatronics Systems & Intelligent Automation*
+
+*🧠 Machine Learning & Applied Artificial Intelligence*
+
+*👁️ Computer Vision & Visual Inspection Systems*
+
+*🔧 Fault Detection, Condition Monitoring & Predictive Models*
+
+# **Technical Skills**
+
+*Programming & Data*
+
+*Python*
+
+*Data preprocessing, feature engineering, model evaluation*
+
+*Scikit-learn, MLflow*
+
+*Classification pipelines & hyperparameter optimization*
+
+*Engineering modeling and numerical analysis*
+
+*Software Practices*
+
+*Modular and scalable project structures*
+
+*Experiment tracking & reproducibility*
+
+*Git & GitHub for version control*
+
+# **Current Focus**
+
+*Developing software engineering skills and production-grade machine learning pipelines*
+
+AI-based fault detection and monitoring systems
+
+Applying computer vision to engineering problems
+
+Strengthening foundations in mechatronics–AI integration
+
+Professional Goals
+
+Build reliable, interpretable, and scalable intelligent systems
