@@ -1,3 +1,6 @@
+<img src="profile.png" alt="Profile Image" width="200"/>
+
+
 # **Hi, I’m Mohanad Ahmed (Mo. A)**
 
 *🎓 Final-Year Mechanical Engineering Student*<br>
