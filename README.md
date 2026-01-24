@@ -1,4 +1,4 @@
-<img src="profile.png" alt="Profile Image" width="200"/>
+<img src="profile.png" alt="Profile Image" width="800"/>
 
 
 # **Hi, I’m Mohanad Ahmed (Mo. A)**
