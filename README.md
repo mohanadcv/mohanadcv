@@ -1,57 +1,146 @@
-<img src="profile.png" alt="Profile Image" width="800"/>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:3B82F6&height=200&section=header&text=Mohanad%20Ahmed&fontSize=50&fontColor=F1F5F9&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20AI%20Engineer%20%7C%20Mechanical%20Engineer&descAlignY=55&descAlign=50"/>
 
-# **Hi, I’m Mohanad Ahmed (Mo. A)**
+</div>
 
-*🎓 Final-Year Mechanical Engineering Student*<br>
-*🤖 Mechatronics, ML & Computer Vision Enthusiast*
+---
 
-# **About Me**
+<div align="center">
 
-*I am a final-year mechanical engineering student with a strong focus on mechatronics systems, machine learning, and computer vision. I am particularly interested in designing intelligent, data-driven engineering solutions that combine mechanical understanding with modern AI techniques.*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/mohanad-ahmed01))
+[![Mostaql](https://img.shields.io/badge/Mostaql-00A86B?style=for-the-badge&logo=freelancer&logoColor=white)](https://mostaql.com/u/YOUR_PROFILE)
 
-# **Core Interests**
+</div>
 
-*🤖 Mechatronics Systems & Intelligent Automation*
+---
 
-*🧠 Machine Learning & Applied Artificial Intelligence*
+## 👋 About Me
 
-*👁️ Computer Vision & Visual Inspection Systems*
+I'm a final-year Mechanical Engineering student who builds **production-grade AI and data systems** from scratch — not wrappers, not notebooks, real engineered software.
 
-*🔧 Fault Detection, Condition Monitoring & Predictive Models*
+My engineering background gives me an edge: I understand the *physical* problems that data solves — predictive maintenance, production scheduling, inventory optimization, quality control. I build systems that don't just analyze data, they support real decisions.
 
-# **Technical Skills**
+```python
+profile = {
+    "name": "Mohanad Ahmed",
+    "education": "Mechanical Engineering (Final Year)",
+    "focus": ["Machine Learning", "Data Analysis", "Dashboard Development"],
+    "building_now": "AutoML System + Business Intelligence Dashboard",
+    "looking_for": "Freelance projects & ML engineering roles",
+    "languages": ["Arabic (Native)", "English (Professional)"]
+}
+```
 
-*Programming & Data*
+---
 
-*Python*
+## 🛠️ Tech Stack
 
-*Data preprocessing, feature engineering, model evaluation*
+<div align="center">
 
-*Scikit-learn, MLflow*
+**Languages & Core**
 
-*Classification pipelines & hyperparameter optimization*
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-*Engineering modeling and numerical analysis*
+**ML & Data**
 
-*Software Practices*
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-*Modular and scalable project structures*
+**Visualization & UI**
 
-*Experiment tracking & reproducibility*
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 
-*Git & GitHub for version control*
+**MLOps & Dev**
 
-# **Current Focus**
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 
-*Developing software engineering skills and production-grade machine learning pipelines*
+</div>
 
-AI-based fault detection and monitoring systems
+---
 
-Applying computer vision to engineering problems
+## 🚀 Featured Projects
 
-Strengthening foundations in mechatronics–AI integration
+### 📊 [AutoML System](https://github.com/mohanadcv/AutoML)
+![Tests](https://github.com/mohanadcv/AutoML/actions/workflows/tests.yml/badge.svg)
+![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=flat&logo=python)
 
-Professional Goals
+> End-to-End AutoML pipeline built from scratch — no wrapper libraries. Raw data to production-ready model in 8 steps.
 
-Build reliable, interpretable, and scalable intelligent systems
+- 🧠 **Auto task detection** — 6-heuristic voting system with confidence scoring
+- ⚙️ **Smart preprocessing** — cardinality-aware encoding, ID column detection, leakage prevention  
+- 📊 **10+ algorithms** — Random Forest, XGBoost, LightGBM, and more
+- 🔧 **RandomizedSearchCV tuning** with overfit-aware model selection
+- 📈 **MLflow tracking**, full test suite, GitHub Actions CI
+- 🖥️ **Dual interface** — Streamlit UI + full CLI
+
+**Results on California Housing (no feature engineering):** LightGBM R²=0.82
+
+---
+
+### 🤖 [Cutting Fault Detection System](https://github.com/mohanadcv/YOUR_REPO) *(Graduation Project)*
+
+> AI system for real-time Oxy-fuel Sheet Metal cutting fault detection for Portable Robotic Arm using audio and image analysis. Custom dataset collected from real manufacturing environment.
+
+- 🎙️ **Audio + Vision fusion** — dual-modality fault detection
+- 📱 **Data collection** — custom dataset recorded with mobile device
+- 🎯 **99% test accuracy** on real industrial data
+- 🔬 Edge AI deployment
+
+---
+
+### 🚢 [Spaceship Titanic — ML Classification](https://github.com/mohanadcv/YOUR_REPO)
+
+> Complete ML project with interactive prediction UI. Upload passenger data, get predictions instantly.
+
+- Full EDA → Feature Engineering → Model Training pipeline
+- Streamlit UI for live predictions on new inputs
+- Kaggle competition dataset
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohanadcv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohanadcv&layout=compact&langs_count=7&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 🎯 What I'm Working On
+
+- 📊 Business Intelligence Dashboard with Plotly Dash (Superstore dataset)
+- 🏭 Supply Chain Dashboard with EOQ/ROP optimization models  
+- 📱 Edge ML projects — real-time gesture & sound classification and object detection (YOLO) on mobile
+
+---
+
+## 💼 Available For
+
+- 📊 **Data Analysis & Reporting** — Excel/CSV → insights + visualizations
+- 🖥️ **Interactive Dashboards** — Python-based, browser-deployable
+- 🤖 **ML Model Development** — classification, regression, deep learning, computer vision
+- ⚙️ **Report Automation** — eliminate manual weekly/monthly reporting
+- 🏭 **Industrial AI** — predictive maintenance, quality control, scheduling
+
+---
+
+<div align="center">
+
+*"Simplicity for the user requires complexity in the system."*
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:1E293B,100:0F172A&height=100&section=footer"/>
+</div>
