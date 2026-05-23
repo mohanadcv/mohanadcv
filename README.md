@@ -44,10 +44,21 @@ profile = {
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **ML & Data**
-
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### Data & Scientific Computing
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### Computer Vision & Robotics
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-111111?style=for-the-badge)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 
 **Visualization & UI**
 
@@ -62,11 +73,27 @@ profile = {
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 
+### Research & Engineering
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+
 </div>
 
 ---
 
 ## 🚀 Featured Projects
+### 📊 [Retail Intelligence Dashboard](https://github.com/mohanadcv/YOUR_REPO)
+
+> End-to-end business intelligence and sales forecasting platform for retail analytics. Interactive dashboards, forecasting, and decision-support insights in one system.
+
+- 📈 **Interactive analytics dashboard** — KPI tracking, trends, and performance monitoring
+- 🔮 **Sales forecasting** — future sales prediction for global, category, and product levels
+- 🧠 **Business intelligence insights** — growth trends, performance analysis, and planning support
+- 📦 **Product & category exploration** — identify top-performing and underperforming segments
+- 🖥️ **Professional Streamlit interface** — deployed interactive web application
+
+**Highlights:** forecasting + analytics + business intelligence in a single workflow
 
 ### 📊 [AutoML System](https://github.com/mohanadcv/AutoML)
 ![Tests](https://github.com/mohanadcv/AutoML/actions/workflows/tests.yml/badge.svg)
@@ -87,7 +114,7 @@ profile = {
 
 ### 🤖 [Cutting Fault Detection System](https://github.com/mohanadcv/YOUR_REPO) *(Graduation Project)*
 
-> AI system for real-time Oxy-fuel Sheet Metal cutting fault detection for Portable Robotic Arm using audio and image analysis. Custom dataset collected from real manufacturing environment.
+> Multimodal Deep Learning system for real-time Oxy-fuel Sheet Metal cutting fault detection for Robotic using audio and image analysis. Custom dataset collected from real manufacturing environment.
 
 - 🎙️ **Audio + Vision fusion** — dual-modality fault detection
 - 📱 **Data collection** — custom dataset recorded with mobile device
