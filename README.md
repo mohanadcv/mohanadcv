@@ -9,7 +9,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/mohanad-ahmed01))
-[![Mostaql](https://img.shields.io/badge/Mostaql-00A86B?style=for-the-badge&logo=freelancer&logoColor=white)](https://mostaql.com/u/YOUR_PROFILE)
+[![Mostaql](https://img.shields.io/badge/Mostaql-00A86B?style=for-the-badge&logo=freelancer&logoColor=white)](https://mostaql.com/u/mohanad_ahmed01)
 
 </div>
 
